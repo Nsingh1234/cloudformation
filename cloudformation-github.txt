@@ -1,0 +1,5 @@
+VSCode: https://code.visualstudio.com/
+
+With the cfn-lint extension: https://github.com/aws-cloudformation/cfn-lint-visual-studio-code
+
+Install cfn-lint here: https://github.com/aws-cloudformation/cfn-lint
